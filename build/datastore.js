@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.DataStore = void 0;
 const fs = require("fs");
 class DataStore {
     static async write(path, data) {

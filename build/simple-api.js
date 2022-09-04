@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.SimpleAPI = void 0;
 const vehicles_1 = require("./vehicles");
 const datastore_1 = require("./datastore");
 class SimpleAPI {
